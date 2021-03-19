@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/AlexSinitsin/hexlet-js/issues"
   },
-  "homepage": "https://github.com/AlexSinitsin/hexlet-js#readme"
+  "homepage": "https://github.com/AlexSinitsin/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "n": "^7.1.0",
+    "node-static": "^0.7.11",
+    "npm": "^7.6.3"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
 }
